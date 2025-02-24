@@ -4,11 +4,11 @@
 
 **Code for the paper:** [HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/document/待定).
 
-![Stage1](pic/Stage1.png)
+![Stage1](pic/stage1.jpg)
 
-![Stage2](pic/Stage2.png)
+![Stage2](pic/stage2.jpg)
 
-Fig. 1. The Two-stage pipline of the HyLiSOR
+Fig. 1. The Two-stage pipeline of the HyLiSOR
 
 
 
@@ -30,7 +30,7 @@ conda activate VHAP
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 cd req\limr-0.1.9
-pip install .
+pip install.
 
 python demo.py
 ```
