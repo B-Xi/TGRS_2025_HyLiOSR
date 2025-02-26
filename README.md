@@ -2,7 +2,7 @@
 
 [Bobo Xi](https://scholar.google.com/citations?user=O4O-s4AAAAAJ&hl=zh-CN), [Mingshuo Cai](https://cfcys.github.io/), [Jiaojiao Li](https://scholar.google.com/citations?user=Ccu3-acAAAAJ&hl=zh-CN&oi=sra), [Zhengjue Wang](https://scholar.google.com/citations?user=qTQj_I4AAAAJ&hl=zh-CN), [Shou Feng](https://homepage.hrbeu.edu.cn/web/fengshou), [Yunsong Li](https://dblp.uni-trier.de/pid/87/5840.html), and [Jocelyn Chanussot](https://jocelyn-chanussot.net/).
 
-**Code for the paper:** [HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data](https://ieeexplore.ieee.org/document/待定).
+**Code for the paper:** [HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data](http://doi.org/10.1109/TGRS.2025.3545926).
 
 ![Stage1](pic/stage1.jpg)
 
@@ -41,19 +41,33 @@ python demo.py
 
 If you find this code helpful😊, please kindly cite:
 
-
-
 or you can give me ⭐!
 
 Citation Details
 --
+Bobo Xi, Mingshuo Cai, Jiaojiao Li, Zhengjue Wang, Shou Feng, Yunsong Li, Jocelyn Chanussot, "HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data," IEEE Transactions on Geoscience and Remote Sensing, 1-15, 2025. DOI: 10.1109/TGRS.2025.3545926.
 
 BibTeX entry:
-
-
-
+--
+```
+@ARTICLE{TGRS_2025_HyLiOSR,
+  author={Xi, Bobo and Cai, Mingshuo and Li, Jiaojiao and Wang, Zhengjue and Feng, Shou and Li, Yunsong and Chanussot, Jocelyn},
+  journal={Transactions on Geoscience and Remote Sensing}, 
+  title={HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data}, 
+  year={2025},
+  volume={63},
+  number={},
+  pages={1-15},
+  doi={10.1109/TGRS.2025.3545926}}
+```
 
 Licensing
 --
+Copyright (C) 2025 Bobo Xi, Mingshuo Cai 
 
-Copyright (C) 2025
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program.
+
