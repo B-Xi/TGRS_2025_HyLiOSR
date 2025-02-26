@@ -40,12 +40,9 @@ python demo.py
 
 If you find this code helpful😊, please kindly cite:
 
-or you can give me ⭐!
-
-# Citation Details
-
 Bobo Xi, Mingshuo Cai, Jiaojiao Li, Zhengjue Wang, Shou Feng, Yunsong Li, Jocelyn Chanussot, "HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data," IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-15, 2025. DOI: 10.1109/TGRS.2025.3545926.
 
+or you can give me a ⭐!
 
 # BibTeX entry:
 ```
