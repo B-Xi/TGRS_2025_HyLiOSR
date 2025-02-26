@@ -37,20 +37,17 @@ python demo.py
 
 
 # References
---
 
 If you find this code helpful😊, please kindly cite:
 
 or you can give me ⭐!
 
 # Citation Details
---
-```
+
 Bobo Xi, Mingshuo Cai, Jiaojiao Li, Zhengjue Wang, Shou Feng, Yunsong Li, Jocelyn Chanussot, "HyLiOSR: Staged Progressive Learning for Joint Open-Set Recognition of Hyperspectral and LiDAR Data," IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-15, 2025. DOI: 10.1109/TGRS.2025.3545926.
-```
+
 
 # BibTeX entry:
---
 ```
 @ARTICLE{TGRS_2025_HyLiOSR,
   author={Xi, Bobo and Cai, Mingshuo and Li, Jiaojiao and Wang, Zhengjue and Feng, Shou and Li, Yunsong and Chanussot, Jocelyn},
@@ -64,7 +61,6 @@ Bobo Xi, Mingshuo Cai, Jiaojiao Li, Zhengjue Wang, Shou Feng, Yunsong Li, Jocely
 ```
 
 # Licensing
---
 Copyright (C) 2025 Bobo Xi, Mingshuo Cai 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, version 3 of the License.
