@@ -21,11 +21,11 @@ Fig. 1. The Two-stage pipeline of the proposed HyLiSOR
 # Setup
 
 ```bash
-git clone XXX
+git clone https://github.com/B-Xi/TGRS_2025_HyLiOSR.git
 cd HyLiOSR
 
 conda create --name HyLiOSR -y python=3.8
-conda activate VHAP
+conda activate HyLiOSR
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
