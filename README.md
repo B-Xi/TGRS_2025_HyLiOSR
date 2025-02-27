@@ -8,7 +8,7 @@
 
 ![Stage2](pic/stage2.jpg)
 
-Fig. 1. The Two-stage pipeline of the proposed HyLiSOR
+Fig. 1. The two-stage pipeline of the proposed HyLiSOR
 
 
 
