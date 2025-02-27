@@ -29,9 +29,6 @@ conda activate HyLiOSR
 
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
-cd req\limr-0.1.9
-pip install .
-
 python demo.py
 ```
 
